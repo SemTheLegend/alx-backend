@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 """
 Module describes a function that takes two integer arguments.
 
