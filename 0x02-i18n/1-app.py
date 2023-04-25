@@ -16,7 +16,7 @@ class Config():
 
 
 @app.route('/')
-def home():
+def home() -> None:
     """Returns the home page."""
     return render_template('1-index.html')
 
